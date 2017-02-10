@@ -1,0 +1,20 @@
+body {
+	
+}
+.container {
+	text-align: left;
+	margin-top: 10%;
+	margin-left: 10%;
+	float:left;
+}
+
+.container_Img{
+	float:left;
+}
+
+.img {
+	margin-left: 30%;
+	margin-top: 30%;
+	width: 300px;
+	height: 300px;
+}
